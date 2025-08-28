@@ -1,6 +1,6 @@
 <mxfile host="app.diagrams.net" agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/139.0.0.0 Safari/537.36 Edg/139.0.0.0" version="28.1.1">
   <diagram id="prtHgNgQTEPvFCAcTncT" name="Page-1">
-    <mxGraphModel dx="1506" dy="833" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
+    <mxGraphModel dx="1350" dy="749" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
       <root>
         <mxCell id="0" />
         <mxCell id="1" parent="0" />
@@ -82,10 +82,10 @@
         <mxCell id="w7biPJrf0hh5INIUFV1A-51" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0.5;entryY=0;entryDx=0;entryDy=0;" edge="1" parent="w7biPJrf0hh5INIUFV1A-3" source="w7biPJrf0hh5INIUFV1A-46" target="w7biPJrf0hh5INIUFV1A-48">
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
-        <mxCell id="w7biPJrf0hh5INIUFV1A-46" value="数据源解析" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="w7biPJrf0hh5INIUFV1A-3">
+        <mxCell id="w7biPJrf0hh5INIUFV1A-46" value="数据源解析&lt;div&gt;数据版本匹配：&lt;/div&gt;&lt;div&gt;前端：V1 V2 &amp;amp; 数据源 V2 V3 = V2&lt;/div&gt;" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="w7biPJrf0hh5INIUFV1A-3">
           <mxGeometry x="196.99999999999955" y="400" width="120" height="60" as="geometry" />
         </mxCell>
-        <mxCell id="w7biPJrf0hh5INIUFV1A-48" value="获取真实数据API" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="w7biPJrf0hh5INIUFV1A-3">
+        <mxCell id="w7biPJrf0hh5INIUFV1A-48" value="获取V2版本真实数据API" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="w7biPJrf0hh5INIUFV1A-3">
           <mxGeometry x="196.99999999999955" y="520" width="120" height="60" as="geometry" />
         </mxCell>
         <mxCell id="w7biPJrf0hh5INIUFV1A-4" value="栏目" style="swimlane;startSize=20;html=1;" vertex="1" parent="w7biPJrf0hh5INIUFV1A-1">
