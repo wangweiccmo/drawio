@@ -4,7 +4,7 @@
       <root>
         <mxCell id="0" />
         <mxCell id="1" parent="0" />
-        <mxCell id="w7biPJrf0hh5INIUFV1A-1" value="智能门户" style="swimlane;childLayout=stackLayout;resizeParent=1;resizeParentMax=0;startSize=20;html=1;" vertex="1" parent="1">
+        <mxCell id="w7biPJrf0hh5INIUFV1A-1" value="智能门户运行时" style="swimlane;childLayout=stackLayout;resizeParent=1;resizeParentMax=0;startSize=20;html=1;" vertex="1" parent="1">
           <mxGeometry x="170.00000000000045" y="40" width="1250" height="940" as="geometry" />
         </mxCell>
         <mxCell id="w7biPJrf0hh5INIUFV1A-2" value="前端页面" style="swimlane;startSize=20;html=1;" vertex="1" parent="w7biPJrf0hh5INIUFV1A-1">
@@ -88,7 +88,7 @@
         <mxCell id="w7biPJrf0hh5INIUFV1A-48" value="获取V2版本真实数据API" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="w7biPJrf0hh5INIUFV1A-3">
           <mxGeometry x="196.99999999999955" y="520" width="120" height="60" as="geometry" />
         </mxCell>
-        <mxCell id="w7biPJrf0hh5INIUFV1A-4" value="栏目" style="swimlane;startSize=20;html=1;" vertex="1" parent="w7biPJrf0hh5INIUFV1A-1">
+        <mxCell id="w7biPJrf0hh5INIUFV1A-4" value="业务数据" style="swimlane;startSize=20;html=1;" vertex="1" parent="w7biPJrf0hh5INIUFV1A-1">
           <mxGeometry x="730" y="20" width="520" height="920" as="geometry" />
         </mxCell>
         <mxCell id="w7biPJrf0hh5INIUFV1A-52" value="V5" style="swimlane;fontStyle=1;align=center;verticalAlign=top;childLayout=stackLayout;horizontal=1;startSize=30;horizontalStack=0;resizeParent=1;resizeParentMax=0;resizeLast=0;collapsible=0;marginBottom=0;html=1;whiteSpace=wrap;" vertex="1" parent="w7biPJrf0hh5INIUFV1A-4">
