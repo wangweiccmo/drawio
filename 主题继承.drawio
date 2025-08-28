@@ -40,7 +40,7 @@
           <mxGeometry x="220" y="180" width="120" height="60" as="geometry" />
         </mxCell>
         <mxCell id="RWfXwklQVhIxapuO80Ik-8" value="原生主题" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="dNxyNK7c78bLwvsdeMH5-11">
-          <mxGeometry x="450" y="30" width="120" height="60" as="geometry" />
+          <mxGeometry x="440" y="30" width="120" height="60" as="geometry" />
         </mxCell>
         <mxCell id="RWfXwklQVhIxapuO80Ik-17" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="dNxyNK7c78bLwvsdeMH5-11" source="RWfXwklQVhIxapuO80Ik-9">
           <mxGeometry relative="1" as="geometry">
