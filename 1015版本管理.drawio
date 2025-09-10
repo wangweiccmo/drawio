@@ -4,6 +4,9 @@
       <root>
         <mxCell id="0" />
         <mxCell id="1" parent="0" />
+        <mxCell id="0SZeNoZCx50WVmB4qU8q-57" value="上公司协同&lt;div&gt;10/9号&lt;/div&gt;" style="shape=umlLifeline;perimeter=lifelinePerimeter;whiteSpace=wrap;html=1;container=1;dropTarget=0;collapsible=0;recursiveResize=0;outlineConnect=0;portConstraint=eastwest;newEdgeStyle={&quot;curved&quot;:0,&quot;rounded&quot;:0};" vertex="1" parent="1">
+          <mxGeometry x="340" y="870" width="100" height="500" as="geometry" />
+        </mxCell>
         <mxCell id="0SZeNoZCx50WVmB4qU8q-2" value="830" style="shape=umlLifeline;perimeter=lifelinePerimeter;whiteSpace=wrap;html=1;container=1;dropTarget=0;collapsible=0;recursiveResize=0;outlineConnect=0;portConstraint=eastwest;newEdgeStyle={&quot;curved&quot;:0,&quot;rounded&quot;:0};fillColor=#f8cecc;strokeColor=#b85450;" vertex="1" parent="1">
           <mxGeometry x="-140" y="670" width="100" height="680" as="geometry" />
         </mxCell>
@@ -95,12 +98,12 @@
         <mxCell id="0SZeNoZCx50WVmB4qU8q-34" value="ai-V2.0.0-develop" style="html=1;shape=mxgraph.infographic.ribbonSimple;notch1=20;notch2=20;align=center;verticalAlign=middle;fontSize=12;fontStyle=0;fillColor=#dae8fc;whiteSpace=wrap;strokeColor=#6c8ebf;" vertex="1" parent="1">
           <mxGeometry x="280" y="1070" width="240" height="30" as="geometry" />
         </mxCell>
-        <mxCell id="0SZeNoZCx50WVmB4qU8q-37" value="" style="shape=flexArrow;endArrow=classic;html=1;rounded=0;width=14;endSize=11.5;fillColor=#fff2cc;strokeColor=#d6b656;" edge="1" parent="1" target="0SZeNoZCx50WVmB4qU8q-3">
+        <mxCell id="0SZeNoZCx50WVmB4qU8q-37" value="" style="shape=flexArrow;endArrow=classic;html=1;rounded=0;width=14;endSize=11.5;fillColor=#fff2cc;strokeColor=#d6b656;" edge="1" parent="1">
           <mxGeometry width="50" height="50" relative="1" as="geometry">
-            <mxPoint x="339" y="1110" as="sourcePoint" />
-            <mxPoint x="339" y="1240" as="targetPoint" />
+            <mxPoint x="389" y="1110" as="sourcePoint" />
+            <mxPoint x="389.5" y="1180" as="targetPoint" />
             <Array as="points">
-              <mxPoint x="339" y="1180" />
+              <mxPoint x="389" y="1180" />
             </Array>
           </mxGeometry>
         </mxCell>
@@ -108,9 +111,6 @@
           <mxGeometry x="-0.2571" y="-4" relative="1" as="geometry">
             <mxPoint x="5" as="offset" />
           </mxGeometry>
-        </mxCell>
-        <mxCell id="0SZeNoZCx50WVmB4qU8q-39" value="&lt;span style=&quot;color: rgb(31, 31, 31); font-family: consolas, &amp;quot;lucida console&amp;quot;, &amp;quot;courier new&amp;quot;, monospace; text-align: left; white-space-collapse: preserve;&quot;&gt;&lt;font style=&quot;font-size: 11px;&quot;&gt;&lt;span style=&quot;color: rgb(0, 0, 0); font-family: Helvetica; text-align: center; white-space-collapse: collapse;&quot;&gt;ai-V2.0.0&lt;/span&gt;&lt;span style=&quot;color: rgb(0, 0, 0); font-family: Helvetica; text-align: center; white-space-collapse: collapse;&quot;&gt;-&lt;/span&gt;hotfix_20250930&lt;/font&gt;&lt;/span&gt;" style="html=1;shape=mxgraph.infographic.ribbonSimple;notch1=20;notch2=20;align=center;verticalAlign=middle;fontSize=14;fontStyle=0;fillColor=#d5e8d4;whiteSpace=wrap;strokeColor=#82b366;" vertex="1" parent="1">
-          <mxGeometry x="340" y="1180" width="180" height="30" as="geometry" />
         </mxCell>
         <mxCell id="0SZeNoZCx50WVmB4qU8q-42" value="" style="shape=flexArrow;endArrow=classic;html=1;rounded=0;width=14;endSize=11.5;fillColor=#fff2cc;strokeColor=#d6b656;" edge="1" parent="1" target="0SZeNoZCx50WVmB4qU8q-4">
           <mxGeometry width="50" height="50" relative="1" as="geometry">
@@ -130,11 +130,11 @@
           <mxGeometry x="520" y="1290" width="200" height="30" as="geometry" />
         </mxCell>
         <mxCell id="0SZeNoZCx50WVmB4qU8q-45" value="&lt;span style=&quot;color: rgb(31, 31, 31); font-family: consolas, &amp;quot;lucida console&amp;quot;, &amp;quot;courier new&amp;quot;, monospace; text-align: left; white-space-collapse: preserve;&quot;&gt;&lt;font style=&quot;font-size: 11px;&quot;&gt;&lt;span style=&quot;color: rgb(0, 0, 0); font-family: Helvetica; text-align: center; white-space-collapse: collapse;&quot;&gt;ai-V2.0.0&lt;/span&gt;&lt;span style=&quot;color: rgb(0, 0, 0); font-family: Helvetica; text-align: center; white-space-collapse: collapse;&quot;&gt;-&lt;/span&gt;hotfix_20250930&lt;/font&gt;&lt;/span&gt;" style="html=1;shape=mxgraph.infographic.ribbonSimple;notch1=20;notch2=20;align=center;verticalAlign=middle;fontSize=14;fontStyle=0;fillColor=#d5e8d4;whiteSpace=wrap;strokeColor=#82b366;" vertex="1" parent="1">
-          <mxGeometry x="530" y="1180" width="180" height="30" as="geometry" />
+          <mxGeometry x="400" y="1180" width="310" height="30" as="geometry" />
         </mxCell>
-        <mxCell id="0SZeNoZCx50WVmB4qU8q-48" value="" style="endArrow=classic;html=1;rounded=0;exitX=0.561;exitY=0.95;exitDx=0;exitDy=0;exitPerimeter=0;entryX=0.55;entryY=0.05;entryDx=0;entryDy=0;entryPerimeter=0;" edge="1" parent="1" source="0SZeNoZCx50WVmB4qU8q-45" target="0SZeNoZCx50WVmB4qU8q-44">
+        <mxCell id="0SZeNoZCx50WVmB4qU8q-48" value="" style="endArrow=classic;html=1;rounded=0;entryX=0.55;entryY=0.05;entryDx=0;entryDy=0;entryPerimeter=0;exitX=0.752;exitY=0.933;exitDx=0;exitDy=0;exitPerimeter=0;" edge="1" parent="1" source="0SZeNoZCx50WVmB4qU8q-45" target="0SZeNoZCx50WVmB4qU8q-44">
           <mxGeometry width="50" height="50" relative="1" as="geometry">
-            <mxPoint x="680" y="1280" as="sourcePoint" />
+            <mxPoint x="630" y="1220" as="sourcePoint" />
             <mxPoint x="730" y="1230" as="targetPoint" />
           </mxGeometry>
         </mxCell>
